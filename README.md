@@ -1,2 +1,2 @@
 # Landing Page Academia
- Landing page de academia.
+ Landing page de academia
